@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedCSharpProgrammingCourse.Console", "AdvancedCSharpProgrammingCourse.Console\AdvancedCSharpProgrammingCourse.Console.csproj", "{9F878FC3-C47C-424B-89E7-4129F9CFDABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedCSharpProgrammingCourse.ConsoleApp", "AdvancedCSharpProgrammingCourse.ConsoleApp\AdvancedCSharpProgrammingCourse.ConsoleApp.csproj", "{D83D9DCA-520C-48D7-8AA7-ECB203C7B741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F878FC3-C47C-424B-89E7-4129F9CFDABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F878FC3-C47C-424B-89E7-4129F9CFDABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F878FC3-C47C-424B-89E7-4129F9CFDABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F878FC3-C47C-424B-89E7-4129F9CFDABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83D9DCA-520C-48D7-8AA7-ECB203C7B741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83D9DCA-520C-48D7-8AA7-ECB203C7B741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83D9DCA-520C-48D7-8AA7-ECB203C7B741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83D9DCA-520C-48D7-8AA7-ECB203C7B741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
